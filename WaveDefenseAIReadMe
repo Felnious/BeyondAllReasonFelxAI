@@ -18,14 +18,30 @@ Wave 7 is Titans and Thors (This is known as the Death Stage)
 To be added:
 
 Armada Bots: 100% Complete
-Armada Air: 20% Complete
-Armada Vehicles: 40% Complete
+-Changelog-
+Lowered Chance for Titans over Thors. Will be adding all of Cortex Units to Gantry for better unit Composition.
+
+Armada Air: 0% Complete
+--Scrapped
+
+Armada Vehicles: 0% Complete
+--Scrapped
+
 Armada Sea: 0% Complete
+--Scrapped
 
 Cortex Bots: 0% Complete
-Cortex Air: 0% Complete
+--Scrapped
+
+Cortex Air: 100% Complete
+-Changelog-
+Added Cortex air to be Aggressive with Bombers and T2 Fighters does not make any other unit Spams Bombers Constantly -- Must Use Restrictor --
+
 Cortex Vehicles: 0% Complete
+--Scrapped
+
 Cortex Sea: 0% Complete
+--Scrapped
 
 Eventually the goal is to have a Completely revamped Barbarian AI that is Ruthless and plays more like Players to help those who want to pvp actually get into the grove of how things work in pvp.
 So far this bot has been useful for teaching players alot of Different Techniques within the game and helps broaden your strats on the field.
